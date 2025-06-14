@@ -1,0 +1,4 @@
+ HEAD
+
+Cambio desde branch B
+ branch-b
